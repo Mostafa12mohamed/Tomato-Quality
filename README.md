@@ -21,3 +21,8 @@ Tomato Quality Project Using Deep Learning
 - MobileNet
 
 To further enhance performance, I tried to use different numbers for unfreezing layers for each pre-trained model and implemented various optimization techniques: ✅ Batch Normalization, L2 Regularization, Dropout to reduce overfitting ✅ Early Stopping and ReduceLROnPlateau for better convergence during trainin
+
+- You can check the data used and research paper 
+https://lnkd.in/dD8PHhKs
+
+
