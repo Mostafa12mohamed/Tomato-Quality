@@ -1,4 +1,5 @@
-# Tomato-Quality
+# Tomato-Quality: Tomato Quality Assessment Using Deep Learning
+
 Tomato Quality Project Using Deep Learning
  advanced Deep Learning techniques to assess tomato freshness automatically! 🌱💡
 
